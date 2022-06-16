@@ -183,7 +183,7 @@ github.com/pierrec/lz4/internal/xxh32
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
-# github.com/prometheus/client_golang v1.12.1
+# github.com/prometheus/client_golang v1.12.2
 ## explicit
 github.com/prometheus/client_golang/prometheus
 github.com/prometheus/client_golang/prometheus/internal
@@ -315,7 +315,7 @@ golang.org/x/text/unicode/norm
 golang.org/x/time/rate
 # google.golang.org/genproto v0.0.0-20200825200019-8632dd797987
 google.golang.org/genproto/googleapis/rpc/status
-# google.golang.org/grpc v1.46.0
+# google.golang.org/grpc v1.47.0
 ## explicit
 google.golang.org/grpc
 google.golang.org/grpc/attributes
