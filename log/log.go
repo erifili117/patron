@@ -125,7 +125,11 @@ func Panic(args ...interface{}) {
 
 // Panicf logging.
 func Panicf(msg string, args ...interface{}) {
+<<<<<<< Updated upstream
 	logCounter.WithLabelValues(string(PanicLevel)).Inc()
+=======
+	
+>>>>>>> Stashed changes
 	logger.Panicf(msg, args...)
 }
 
